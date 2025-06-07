@@ -1,4 +1,4 @@
-# *Piumal Nipun*
+# *I am Piumal Nipun*
 #### *Passionate in Embedded Systems | Digital Design | Robotics & AI*
 
 I'm **Piumal Nipun**, an Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, specializing in **Embedded Systems, Digital Design,** and **Robotics & AI Applications.**
